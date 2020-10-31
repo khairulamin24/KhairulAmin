@@ -1,0 +1,123 @@
+body{
+	background: white;
+}
+h2{
+	text-align			: center;
+	font-family			: Helvetica;
+	font-size			: 42px;
+	color: #0;
+	padding-right: 200px;
+}
+#atas{
+	align-content: center;
+	width 				: 80%;
+	height 				: 10%;
+	background-color	: #02a2d8;
+	padding-right		: 10%;
+	padding-left: 10%;
+}
+.tengah{
+	width 				: 90%;
+	height 				: 450px;
+	background-color	: #02a2d8;
+	float: right;
+	padding: 0px 0px 0px 0px;
+}
+#isi{
+	margin: 0px  0px 0px 0px;
+	width: 111%;
+	height: 100%;
+	float: right;
+}
+#a{
+	width: 20%;
+	height: 100%;
+	float: left;
+	background: green;
+	background-image: url('./gambar/lilin.png');
+	overflow-y: scroll;	
+}
+div div.a1{
+	font-size: 20px;
+	color: white;
+	font: bold;
+	font-family:purisa;
+
+}
+div div.a2{
+	font-size: 16px;
+	color: white;
+	font: bold;
+	font-family:purisa;
+	padding-left: 30px;
+}
+div div.a3{
+	font-size: 13px;
+	color: white;
+	font: bold;
+	font-family:purisa;
+	padding-left: 60px;
+	margin-right: 10px;
+}
+#b{
+	width: 20%;
+	float: left;
+	height: 100%;
+	background: yellow;
+}
+#c{
+	width: 40%;
+	height: 100%;
+	float: left;
+	background: red;
+	overflow-x: scroll;
+	overflow-y: scroll;
+	font-family: ubuntu;
+	font-size: 20px;
+}
+table{
+	margin: 5px;
+	border: 5px dotted white;
+}
+table td{
+	border: 1px black solid;
+}
+#d{
+	width: 20%;
+	height: 100%;
+	float: left;
+	background-image: url('./gambar/logo.jpg');
+	overflow-y: scroll;
+	overflow-x: scroll;
+
+}
+div div.d1{
+	font-size: 20px;
+	color: black;
+	font: bold;
+	font-family:purisa;
+
+}
+div div.d2{
+	font-size: 16px;
+	color: black;
+	font: bold;
+	font-family:purisa;
+	padding-left: 30px;
+}
+div div.d3{
+	font-size: 13px;
+	color: black;
+	font: bold;
+	font-family:purisa;
+	padding-left: 60px;
+	margin-right: 10px;
+}
+div.bawah{
+	border: 1px solid;
+	margin: 455px 3px 5px 0px;
+	width 				: 98.8%;
+	height 				: 60px;
+	background-color	: #a2d8;
+	position: fixed;
+}
